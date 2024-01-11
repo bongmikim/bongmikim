@@ -27,4 +27,3 @@
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bongmikim&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongmikim&layout=compact&theme=radical)
-<img src="https://raw.githubusercontent.com/bokub/github-stats-box/images/screenshot.png">
